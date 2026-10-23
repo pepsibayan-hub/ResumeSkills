@@ -33,7 +33,24 @@ Skills are markdown files that give AI agents specialized knowledge and workflow
 
 ## Installation
 
-### Option 1: CLI Install (Recommended)
+### Claude Code Plugin
+
+Inside Claude Code, run:
+
+```
+/plugin install resume-skills --marketplace pepsibayan-hub/ResumeSkills
+```
+
+Or add the marketplace first, then install:
+
+```
+/plugin marketplace add pepsibayan-hub/ResumeSkills
+/plugin install resume-skills@resume-skills
+```
+
+All skills under `skills/` load automatically. Restart Claude Code after installing.
+
+### Option 1: CLI Install
 
 ```bash
 # Install all 20 skills globally (works across all projects)
