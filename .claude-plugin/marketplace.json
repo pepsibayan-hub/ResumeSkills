@@ -1,5 +1,5 @@
 {
-  "name": "resume-skills",
+  "name": "resume-skills-pepsibayan",
   "owner": {
     "name": "Param Choudhary",
     "url": "https://github.com/Paramchoudhary"
@@ -9,7 +9,7 @@
   },
   "plugins": [
     {
-      "name": "resume-skills",
+      "name": "resume-skills-pepsibayan",
       "source": "./",
       "description": "Resume optimization skills for Claude Code - ATS optimization, bullet writing, job matching, cover letters, interview prep, and career development",
       "version": "1.0.0"

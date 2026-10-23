@@ -38,14 +38,14 @@ Skills are markdown files that give AI agents specialized knowledge and workflow
 Inside Claude Code, run:
 
 ```
-/plugin install resume-skills --marketplace pepsibayan-hub/ResumeSkills
+/plugin install resume-skills-pepsibayan --marketplace pepsibayan-hub/ResumeSkills
 ```
 
 Or add the marketplace first, then install:
 
 ```
 /plugin marketplace add pepsibayan-hub/ResumeSkills
-/plugin install resume-skills@resume-skills
+/plugin install resume-skills-pepsibayan@resume-skills-pepsibayan
 ```
 
 All skills under `skills/` load automatically. Restart Claude Code after installing.
