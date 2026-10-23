@@ -244,3 +244,7 @@ Resume skills for Claude Code. ATS optimization, bullet writing, job matching, i
 ---
 
 *Built with care for job seekers everywhere. Good luck with your search!*
+
+## Privacy
+
+See [PRIVACY.md](PRIVACY.md). This plugin does not collect, store, or send your data anywhere.
